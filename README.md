@@ -16,10 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/phillipszshenon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phillipszshenon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shenon phillipsz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shenon phillipsz" height="30" width="40" /></a>
-<a href="https://fb.com/shenon trishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shenon trishan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shenon-phillipsz-908156244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shenon phillipsz" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shenon.trishan.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shenon trishan" height="30" width="40" /></a>
 <a href="https://instagram.com/tikkioninsta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tikkioninsta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tikki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tikki" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCEyvg8kRo8Umi4B8CLH9JeA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tikki" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
