@@ -1,12 +1,13 @@
 <h1 align="center">Hi(Ayoubowan!), I'm Trishan Phillipz</h1>
 <h3 align="center">I love coding!</h3>
-<img align="center" alt="Coding" width="700" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47tf7anftarhnwed1t09c9bbes1gv2jjuej0pwxktw&rid=giphy.gif&ct=g">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shenon69&label=Profile%20views&color=0e75b6&style=flat" alt="shenon69" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shenon69" alt="shenon69" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/phillipszshenon" target="blank"><img src="https://img.shields.io/twitter/follow/phillipszshenon?logo=twitter&style=for-the-badge" alt="phillipszshenon" /></a> </p>
+<img align="center" alt="Coding" width="500" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47tf7anftarhnwed1t09c9bbes1gv2jjuej0pwxktw&rid=giphy.gif&ct=g">
 
 - 🌱 I’m currently learning **Flutter, React Native**
 
