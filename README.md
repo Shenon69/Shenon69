@@ -19,7 +19,8 @@
 <a href="https://www.linkedin.com/in/shenon-phillipsz-908156244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shenon phillipsz" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shenon.trishan.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shenon trishan" height="30" width="40" /></a>
 <a href="https://instagram.com/tikkioninsta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tikkioninsta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCEyvg8kRo8Umi4B8CLH9JeA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tikki" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCEyvg8kRo8Umi4B8CLH9JeA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tikki" ![giphy](https://user-images.githubusercontent.com/105484461/197392759-1024d575-d04d-424d-a9ec-e469173bfa8c.gif)
+height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
