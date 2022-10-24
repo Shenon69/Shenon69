@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I think I love sports and food**
 
-<img src="https://www.animatedimages.org/img-animated-line-image-0363-106311.htm#linkit">
+<img align="center" src="https://www.animatedimages.org/img-animated-line-image-0363-106311.htm#linkit" alt="fire">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
