@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I think I love sports and food**
 
+<img src="https://www.animatedimages.org/img-animated-line-image-0363-106311.htm#linkit">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/phillipszshenon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phillipszshenon" height="30" width="40" /></a>
