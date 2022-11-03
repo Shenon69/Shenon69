@@ -34,4 +34,4 @@ height="30" width="40" /></a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shenon69&show_icons=true&locale=en" alt="shenon69" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shenon69&" alt="shenon69" /></p>
-<p><img align="center" src="[![@shenon69's Holopin board](https://holopin.me/shenon69)](https://holopin.io/@shenon69)" alt="Hacktoberfest badges"><p>
+<p><img align="center" src="https://holopin.io/@shenon69" alt="Hacktoberfest badges"><p>
