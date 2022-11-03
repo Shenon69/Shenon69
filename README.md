@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/phillipszshenon" target="blank"><img src="https://img.shields.io/twitter/follow/phillipszshenon?logo=twitter&style=for-the-badge" alt="phillipszshenon" /></a> </p>
 <img align="right" alt="Coding" width="500" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47tf7anftarhnwed1t09c9bbes1gv2jjuej0pwxktw&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently reading for a **Bsc in Software Engineering**
+- 🌱 I’m currently learning **HTMl, CSS and JavaScript**
 
 - 📫 How to reach me **ask.tikki69@gmail.com**
 
