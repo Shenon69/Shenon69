@@ -35,7 +35,7 @@ height="30" width="40" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shenon69&show_icons=true&locale=en" alt="shenon69" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shenon69&" alt="shenon69" /></p>
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=shenon69&](https://github-readme-streak-stats.herokuapp.com?user=Shenon69&theme=transparent)" alt="shenon69" /></p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h1>Achievements<h1>
