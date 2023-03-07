@@ -10,7 +10,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 <img align="right" alt="Coding" width="500" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47tf7anftarhnwed1t09c9bbes1gv2jjuej0pwxktw&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **HTMl, CSS and JavaScript**
+- 🌱 I’m currently learning **Brainfuck**
 
 - 📫 How to reach me **ask.tikki69@gmail.com**
 
