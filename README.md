@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shenon69" alt="shenon69" /></a> </p> -->
 
-<p align="left"> <a href="https://twitter.com/phillipszshenon" target="blank"><img src="https://img.shields.io/twitter/follow/phillipszshenon?logo=twitter&style=for-the-badge" alt="phillipszshenon" /></a>
+<p align="left"> <a href="https://twitter.com/phillipszshenon" target="blank"><img src="https://img.shields.io/twitter/follow/phillipszshenon?logo=instagram&style=for-the-badge" alt="phillipszshenon" /></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
 <img align="right" alt="Coding" width="500" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47tf7anftarhnwed1t09c9bbes1gv2jjuej0pwxktw&rid=giphy.gif&ct=g">
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/phillipszshenon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phillipszshenon" height="30" width="40" /></a>
+<a href="https://twitter.com/phillipszshenon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phillipszshenon" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shenon-phillipsz-908156244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shenon phillipsz" height="30" width="40" /></a>
 <a href="https://www.facebook.com/shenon.trishan.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shenon trishan" height="30" width="40" /></a>
 <a href="https://instagram.com/tikkioninsta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tikkioninsta" height="30" width="40" /></a>
