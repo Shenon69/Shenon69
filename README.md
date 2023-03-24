@@ -1,5 +1,5 @@
 <h1 align="center">Hi(Ayoubowan!)👋, I'm Trishan Phillipsz</h1>
-<h3 align="center">eye lav kodin!</h3>
+<h3 align="center">eye lav kodin ;)</h3>
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shenon69&label=Profile%20views&color=0e75b6&style=flat" alt="shenon69" /> </p>
