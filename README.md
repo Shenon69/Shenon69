@@ -1,5 +1,6 @@
 <h1 align="center">Hi(Ayoubowan!)👋, I'm Trishan Phillipsz</h1>
 <h3 align="center">eye lav kodin ;)</h3>
+![favicon](https://user-images.githubusercontent.com/105484461/229417052-ad02440c-38cc-4b49-a072-22bdcf9d03e0.png)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
