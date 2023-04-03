@@ -4,7 +4,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <div align="center">
-<img align="center" width="60%" src="https://user-images.githubusercontent.com/105484461/229486308-3887cdba-fac7-4a23-8cca-ae8cbc069958.png" alt="kodin"/>
+<img align="center" width="50%" src="https://user-images.githubusercontent.com/105484461/229486308-3887cdba-fac7-4a23-8cca-ae8cbc069958.png" alt="kodin"/>
 </div>
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shenon69" alt="shenon69" /></a> </p> -->
@@ -33,11 +33,11 @@ height="30" width="40" /></a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
-<br/>
-<p align="center"><img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenon69&theme=transparent&show_icons=true&locale=en&layout=compact" alt="shenon69" />
+
+<p align="center"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenon69&theme=transparent&show_icons=true&locale=en&layout=compact" alt="shenon69" />
 <br/>
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shenon69&theme=transparent&show_icons=true&locale=en" alt="shenon69" /></p> -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shenon69&theme=transparent" alt="shenon69" /></p>
+<p align="center"><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Shenon69&theme=transparent" alt="shenon69" /></p>
 <br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
