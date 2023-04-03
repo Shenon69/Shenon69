@@ -1,6 +1,6 @@
 <h1 align="center">Hi(Ayoubowan!)👋, I'm Trishan Phillipsz</h1>
 <h3 align="center">eye lav kodin ;)</h3>
-![favicon](https://user-images.githubusercontent.com/105484461/229417052-ad02440c-38cc-4b49-a072-22bdcf9d03e0.png)
+![Shennaaaaa_a_pretty_girls_face_include_simple_little_lines_on_h_a8530dba-a020-437d-a9ac-a1e59ab821ff](https://user-images.githubusercontent.com/105484461/229417407-668fc918-0c0d-4584-85ff-3643f5d11ffa.png)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
