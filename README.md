@@ -3,7 +3,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://user-images.githubusercontent.com/105484461/229486308-3887cdba-fac7-4a23-8cca-ae8cbc069958.png" alt="kodin"/>
+<img align="center" width="20%" src="https://user-images.githubusercontent.com/105484461/229486308-3887cdba-fac7-4a23-8cca-ae8cbc069958.png" alt="kodin"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shenon69&label=Profile%20views&color=0e75b6&style=flat" alt="shenon69" /> </p>
 <!-- 
