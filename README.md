@@ -35,7 +35,7 @@ height="30" width="40" /></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
 <p align="center"><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenon69&theme=transparent&show_icons=true&locale=en&layout=compact" alt="shenon69" />
-<br/>
+
 <!-- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shenon69&theme=transparent&show_icons=true&locale=en" alt="shenon69" /></p> -->
 <p align="center"><img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Shenon69&theme=transparent" alt="shenon69" /></p>
 <br/>
