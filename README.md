@@ -41,6 +41,6 @@ height="30" width="40" /></a>
 <br/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<!-- 
+<!--
 <h1>Achievements<h1>
 <p><img align="center" src="https://holopin.me/shenon69" alt="Hacktoberfest badges"><p> -->
