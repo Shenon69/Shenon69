@@ -1,7 +1,10 @@
 <h1 align="center">Hi(Ayoubowan!)👋, I'm Trishan Phillipsz</h1>
 <h3 align="center">eye lav kodin ;)</h3>
-<img align="center" src"https://user-images.githubusercontent.com/105484461/229486308-3887cdba-fac7-4a23-8cca-ae8cbc069958.png" alt="ilovekodin"/>
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<img src="![eyeLavKodin](https://user-images.githubusercontent.com/105484461/229486308-3887cdba-fac7-4a23-8cca-ae8cbc069958.png)
+" alt="kodin"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shenon69&label=Profile%20views&color=0e75b6&style=flat" alt="shenon69" /> </p>
 <!-- 
