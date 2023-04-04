@@ -10,7 +10,8 @@
 </div>
 
 <br/>
-
+<p>I prefer the dark mode cause light attracts bugs!</p>
+<br/>
 <div align="center">
 <img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenon69&theme=transparent&show_icons=true&locale=en&layout=compact" alt="shenon69" />
 </div>
