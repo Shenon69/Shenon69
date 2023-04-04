@@ -8,7 +8,7 @@
 <div align="center">
 <img align="center" src="https://user-images.githubusercontent.com/105484461/229679800-89ff3eb2-1a70-4a19-a1d2-f923cbfee31c.gif" alt="kodin"/>
 </div>
-<samp>I prefer the dark mode cause light attracts bugs!</samp>
+<samp><p align="center">I prefer the dark mode cause light attracts bugs!</p></samp>
 <br/>
 <br/>
 <div align="center">
