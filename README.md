@@ -1,4 +1,4 @@
-<h2 align="center">Ayubowan!(Hello/Hola/Bonjour/Ciao/Konnichiwa/Nǐ hǎo/Annyeonghaseyo)</h2>
+<h2 align="center">Ayubowan! <br/> (Hello/Hola/Bonjour/Ciao/Konnichiwa/Nǐ hǎo/Annyeonghaseyo/Namaste)</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shenon69&label=Profile%20views&color=0e75b6&style=flat" alt="shenon69" /> </p>
 
 <br/>
