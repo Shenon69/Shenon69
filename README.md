@@ -1,4 +1,4 @@
-<h1 align="center">Ayubowan!</h1><h2 align="center">(Hello/Hola/Bonjour/Ciao/Konnichiwa/Nǐ hǎo/Annyeonghaseyo/Namaste)</h2>
+<h1 align="center">Ayubowan!</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shenon69&label=Profile%20views&color=0e75b6&style=flat" alt="shenon69" /> </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
