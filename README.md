@@ -6,7 +6,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/105484461/229679800-89ff3eb2-1a70-4a19-a1d2-f923cbfee31c.gif" alt="kodin"/>
 </div> -->
 <div align="center">
-<samp>I prefer the dark mode cause light attracts bugs!</samp>
+<samp>I prefer the dark mode cause the light attract bugs!</samp>
 </div>
 
 <!--<div align="center">
