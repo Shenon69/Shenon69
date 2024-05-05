@@ -43,3 +43,18 @@ height="30" width="40" /></a>
 <!--
 <h1>Achievements<h1>
 <p><img align="center" src="https://holopin.me/shenon69" alt="Hacktoberfest badges"><p> -->
+<img src="https://google.com" alt="this is just a check for how this image tag works in this readme file">
+
+📊 **Weekly development breakdown**
+
+<!--START_SECTION:waka-->
+
+```txt
+Python     2 hrs 40 mins   ████████████████▒░░░░░░░░   65.17 %
+Markdown   42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
+CSS        29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+TOML       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
+Nix        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+```
+
+<!--END_SECTION:waka-->
