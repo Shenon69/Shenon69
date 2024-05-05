@@ -10,7 +10,7 @@
 <!--<div align="center">
 <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shenon69&theme=transparent&show_icons=true&locale=en&layout=compact" alt="shenon69" />
 </div>
-  
+
  <br/>
 <div align="center">
 <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Shenon69&theme=transparent" alt="shenon69" />
@@ -21,7 +21,6 @@
 <!--
 <h1>Achievements<h1>
 <p><img align="center" src="https://holopin.me/shenon69" alt="Hacktoberfest badges"><p> -->
-<img src="https://google.com" alt="this is just a check for how this image tag works in this readme file">
 
 📊 **Weekly development breakdown**
 
