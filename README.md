@@ -27,11 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python     2 hrs 40 mins   ████████████████▒░░░░░░░░   65.17 %
-Markdown   42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.31 %
-CSS        29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
-TOML       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Nix        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
