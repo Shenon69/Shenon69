@@ -13,8 +13,6 @@ currently_learning: ["GitOps", "Smart Contracts"]
 hobbies: ["Football", "Cardistry"]
 ```
 
-------
-
 <samp> **Weekly development breakdown**</samp>
 
 <!--START_SECTION:waka-->
