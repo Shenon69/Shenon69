@@ -20,7 +20,11 @@ hobbies: ["Football", "Cardistry"]
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go           2 hrs 37 mins   █████████████████░░░░░░░░   68.20 %
+TypeScript   34 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.82 %
+Markdown     15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+YAML         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Makefile     7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
