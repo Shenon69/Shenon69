@@ -1,6 +1,6 @@
 # Ayubowan!
 
-<samp> **Personal Details**</samp>
+<samp>*Personal Details*</samp>
 
 ```yaml
 name: Trishan Phillipsz
@@ -13,7 +13,7 @@ currently_learning: ["GitOps", "Smart Contracts"]
 hobbies: ["Football", "Cardistry"]
 ```
 
-<samp> **Weekly development breakdown**</samp>
+<samp> *Development breakdown*</samp>
 
 <!--START_SECTION:waka-->
 
