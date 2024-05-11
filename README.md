@@ -18,15 +18,15 @@ hobbies: ["Football", "Cardistry"]
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 08 May 2024
+From: 05 May 2024 - To: 09 May 2024
 
-Total Time: 17 hrs 30 mins
+Total Time: 18 hrs
 
-TypeScript   13 hrs 59 mins  >>>>>>>>>>>>>>>>>>>>-----   79.91 %
-Go           2 hrs 37 mins   >>>>---------------------   15.00 %
-JSON         16 mins         -------------------------   01.57 %
-Markdown     15 mins         -------------------------   01.49 %
-YAML         8 mins          -------------------------   00.83 %
+TypeScript   14 hrs 29 mins  >>>>>>>>>>>>>>>>>>>>-----   80.47 %
+Go           2 hrs 37 mins   >>>>---------------------   14.58 %
+JSON         16 mins         -------------------------   01.53 %
+Markdown     15 mins         -------------------------   01.45 %
+YAML         8 mins          -------------------------   00.81 %
 ```
 
 <!--END_SECTION:waka-->
