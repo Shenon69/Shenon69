@@ -18,7 +18,7 @@ hobbies: ["Football", "Cardistry"]
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 30 May 2024
+From: 05 May 2024 - To: 31 May 2024
 
 Total Time: 64 hrs 17 mins
 
