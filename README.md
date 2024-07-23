@@ -5,7 +5,7 @@
 ```yaml
 name: Trishan Phillipsz
 located_in: Colombo, Sri Lanka
-job: Software Engineer (intern)
+job: Software Engineer
 education: ["B.Sc. in Software Engineering (reading)"]
 company: Elysian Crest
 fields_of_interests: ["DevOps", "Web3", "Cloud Computing"]
