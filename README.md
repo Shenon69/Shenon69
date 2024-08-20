@@ -17,15 +17,15 @@ hobbies: ["Football", "Cardistry"]
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 17 August 2024
+From: 05 May 2024 - To: 18 August 2024
 
-Total Time: 164 hrs 59 mins
+Total Time: 166 hrs 28 mins
 
-TypeScript     138 hrs 38 mins >>>>>>>>>>>>>>>>>>>>-----   81.66 %
-Go             10 hrs 22 mins  >>-----------------------   06.11 %
-Terraform      6 hrs 1 min     >------------------------   03.55 %
-Other          4 hrs 47 mins   >------------------------   02.82 %
-Bash           2 hrs 20 mins   -------------------------   01.37 %
+TypeScript     140 hrs 7 mins  >>>>>>>>>>>>>>>>>>>>-----   81.81 %
+Go             10 hrs 22 mins  >>-----------------------   06.06 %
+Terraform      6 hrs 1 min     >------------------------   03.52 %
+Other          4 hrs 48 mins   >------------------------   02.81 %
+Bash           2 hrs 20 mins   -------------------------   01.36 %
 ```
 
 <!--END_SECTION:waka-->
